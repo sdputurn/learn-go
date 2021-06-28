@@ -8,5 +8,5 @@ func Hello1() {
 
 }
 func main() {
-	fmt.Println("i am in main")
+	fmt.Println("i am in main from learn_go package")
 }
