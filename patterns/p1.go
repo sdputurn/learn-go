@@ -1,9 +1,9 @@
 package patterns
 
-import {
+import (
 	"fmt"
+)
 
-}
-func p1 () {
+func P1 () {
 	fmt.Println("in patterns+++++++++++++++++++")
 }
