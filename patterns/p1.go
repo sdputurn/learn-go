@@ -1,9 +1,6 @@
 package patterns
 
-import {
-	"fmt"
-
-}
+import "fmt"
 func p1 () {
 	fmt.Println("in patterns+++++++++++++++++++")
 }
